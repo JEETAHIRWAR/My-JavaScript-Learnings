@@ -80,7 +80,39 @@ Optional `catch binding`.
 
 >***ES12:*** `String.replaceAll()`, `Promise.any()`, `WeakRef()`,  `Numeric-separator` `Logical Assignment Operators`.
 
+## How to Run JavaScript![?](image.png)
 
+- **In a web Browser:** Javascript code can be written directly within HTML documents and executed by the web browser. To run JavaScript in a web browser, you can simply include it between `<script>` tags:
+
+>##### { In Hindi }
+>**Web Browser me:** HTML document me `<script>`tag ke andar direct JavaScript code likh sakte hain. Browser automatically ise run karega.
+
+```bash
+<!DOCTYPE html>
+<html>
+<body>
+    <script>
+        alert('Hello, Duniya!');
+    </script>
+</body>
+</html>
+```
+
+- **Using Node.js:** For server-side JavaScript or running JS outside of a browser, you can use `Node.js`. First, install `Node.js` from [nodejs.org](https://nodejs.org/en) Then, write your JavaScript code in a .js file and run it using the Node.js interpreter from the command line:
+
+>##### { In Hindi }
+>**Node.js ke Saath:** Agar aapko browser ke bahar JavaScript run karni hai, toh `Node.js` use kar sakte hain. `Node.js` install karein, phir `.js` file me code likh kar command line se `node filename.js` command ke sath run karein.
+
+```bash
+// example.js
+console.log('Hello, Duniya!');
+```
+Command line me:
+```
+node example.js
+```
+
+-----
 
 
 
