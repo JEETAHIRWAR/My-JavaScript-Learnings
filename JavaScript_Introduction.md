@@ -80,7 +80,7 @@ Optional `catch binding`.
 
 >***ES12:*** `String.replaceAll()`, `Promise.any()`, `WeakRef()`,  `Numeric-separator` `Logical Assignment Operators`.
 
-## How to Run JavaScript![?](image.png)
+## How to Run JavaScript! Code?
 
 - **In a web Browser:** Javascript code can be written directly within HTML documents and executed by the web browser. To run JavaScript in a web browser, you can simply include it between `<script>` tags:
 
