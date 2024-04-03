@@ -78,7 +78,7 @@ Optional `catch binding`.
 
 >***ES11:*** `BigInt()`, `Dynamic Import`, `Optional chaining operator`, `Promise.allSettled()`, `globalThis`, `matchAll()`.
 
->***ES11:*** String.replaceAll() Promise.any() WeakRef() Numeric-separator
+>***ES12:*** `String.replaceAll()`, `Promise.any()`, `WeakRef()`,  `Numeric-separator` `Logical Assignment Operators`.
 
 
 
